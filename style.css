@@ -1,9 +1,24 @@
 /*
-Theme Name: Mon Joli Theme
+Theme Name: Mon Theme github
 Theme URI: https://monurlpersonnel.com/mesthemes
-Author: Prenom NOM
+Author: David Caignaert
 Author URI: https://monurlpersonnel.com
 Description: Le thème développer avec Chaton
 Version: 0.1
 Tags: simple, facile, sans danger, base pour la suite
 */
+header {
+  background-color: blue;
+}
+footer {
+  background-color: green;
+}
+.side {
+  background-color: yellow;
+}
+.loop {
+  background-color: lightblue;
+}
+form {
+  background-color: white;
+}
